@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=songpang&repo=github-readme-stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=songpang&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
